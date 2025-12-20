@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Almarose Extrablack';
+	src: url(../../assets/fonts/Almarose%20Extrablack-25d3adc1b8c572770eee0734d779e333.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose%20Extrablack-8721ebf68b800ff269c799eda02b15a7.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

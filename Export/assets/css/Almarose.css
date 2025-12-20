@@ -1,0 +1,143 @@
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-e9ba4cd37e0a6993d6080fbc3b1f17f2.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-d9ce9a919aa8225b66611075d8d7667f.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-3e560eb55cd007de32d30f032dcaf3a5.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-b3713e4d5b77c7ed57586b6295aa90f1.woff) format('woff');
+	font-weight: 100;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-ec1da026faae3062f3458c8d0fc54534.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-5c5a86eb3a2a1d05007d51a581a2ae9b.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-f63a649e815883977151bc12eee762f2.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-681f8cb069840d4287ce2c5c832dd363.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-98562eb57da518636f0f6fc2138df998.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-ec8660cb83257e822e499c5b00b091a3.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-7e033275b5bca5eb15ec845dbd14ea5d.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-348b6c5085b2555ac6dea67e829f9504.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-2e2f23bf5b310bd07b1fb77a6a954dd6.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-c876163f83050fe67ad435d73330cc7f.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-69d24bd2a72243c541e34b99d06d0825.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-a62138f8b5d3793297a668169b080e9e.woff) format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-9fabce7d69c07dee4a1b4abd9c79deef.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-651721b30856bfd3c28afbdcd257dc4a.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-62911a00cebafb0bcf0ab3305eb5d28a.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-456ff51399b187b2a8427d2f357d9e3b.woff) format('woff');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-8e347ce8bedef3402b10489321704fe0.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-7e6bef0a42aeb3adf35db666395b4fca.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-0d73d009ad039d09a9f6c97ac932a516.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-b061b69f3bb1bb1b02d85f53aa6a6ec0.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-1e61f21682f814ecf7e8e964925aa56f.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-95fbc1bb82669b40f88cb9f6e079c628.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-6dee360edc2be93941f759ecab6b82af.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-e5a02a89abb9d11935c25008a4891d49.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-51be9157aa9298b8689b4cec8e82cc8a.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-f3d20c34ab39df85cc20fd2af6414601.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Almarose';
+	src: url(../../assets/fonts/Almarose-d60856ac09b025efdd8746cdd12f000b.woff2) format('woff2'),
+	url(../../assets/fonts/Almarose-68e5ce265e1f7397aaea258bd46f4e7c.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}
