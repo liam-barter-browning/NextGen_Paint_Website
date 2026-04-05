@@ -162,7 +162,7 @@
   left: 0;
   right: 0;
   height: 3px;
-  background: #1d4ed8;
+  background: var(--bs-gray-700);
   transform: scaleX(0);
   transition: transform 0.25s ease;
 }
