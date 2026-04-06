@@ -1,3 +1,7 @@
+.navbar-brand {
+  max-width: 75% !important;
+}
+
 .no-pad {
   margin: 0;
   padding: 0;
