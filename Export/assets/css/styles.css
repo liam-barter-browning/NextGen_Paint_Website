@@ -2,6 +2,8 @@
   max-width: 75% !important;
 }
 
+/* Force font-display: swap for icon fonts */
+
 .no-pad {
   margin: 0;
   padding: 0;
